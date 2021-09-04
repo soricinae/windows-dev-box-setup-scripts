@@ -30,6 +30,7 @@ executeScript "Browsers.ps1";
 executeScript "Azure.ps1";
 executeScript "Node.ps1";
 executeScript "VisualStudio.ps1";
+executeScript "Soricinae.ps1";
 
 Enable-UAC
 Enable-MicrosoftUpdate
