@@ -6,3 +6,4 @@ choco install -y dotmemory
 choco install -y telnet
 choco install -y r.project
 choco install -y terraform
+choco install -y fiddler
