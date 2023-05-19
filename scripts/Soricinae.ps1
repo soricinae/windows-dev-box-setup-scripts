@@ -7,3 +7,4 @@ choco install -y telnet
 choco install -y r.project
 choco install -y terraform
 choco install -y fiddler
+choco install -y pulumi
